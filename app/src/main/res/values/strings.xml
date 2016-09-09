@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MvcPattern</string>
+    <string name="count">Count0</string>
+</resources>
